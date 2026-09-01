@@ -8,7 +8,7 @@ INSERT INTO registro_ventas_agentes (dia_operacion, agente_comercial, total_mont
 ('2026-01-04', 'Juan', 140.00),
 ('2026-01-05', 'Ana', 275.50),
 ('2026-01-05', 'Luisa', 85.00),
-('2026-01-06', 'Carlos', 190.00),
+('2026-01-06', 'Carlos', 190.00),s y tres pendientes
 ('2026-01-07', 'Maria', 410.00),
 ('2026-01-08', 'Pedro', 115.30),
 ('2026-01-09', 'Sofia', 230.00),
